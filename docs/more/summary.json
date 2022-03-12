@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Revisión técnica",
+        "file": "markdowns/technical-review/1.md",
+        "children": [
+            {
+                "title": "1.Revisión sprint 1",
+                "file": "markdowns/technical-review/2.md"
+            }
+        ]
+    },
+    {
+        "title": "Videos técnicos",
+        "file": "markdowns/vid-technical.md"
+    }
+]
